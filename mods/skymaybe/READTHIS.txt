@@ -1,0 +1,13 @@
+This is The Sky May Be, retooled to be 99% Compatible with Zdoom (a few 
+things don't work right w/o the DOS prompt). 
+
+It's meant to provide easier access to the people who can't get the DeHackEd
+patch to install or get past the original install method.
+
+This combined, decompressed version of The Sky May Be was hacked together by
+Linkrulezall.
+
+However, he takes NO CREDIT WHATSOEVER for the contents of the wad, nor is
+he affiliated in any way with Doug the Eagle or Kansam.
+
+(But if he did, they'd definitely be on his Xmas card list)

@@ -1,0 +1,55 @@
+
+===========================================================================
+Title                   : MDL.WAD
+Date Finished           : unknown
+Author                  : mystican
+Email Address           : mystican@cyberspace.org
+Misc			: see http://mystican.ml.org
+
+Description             : VERY old doom1 episode that I made some time in 95 (I think)
+
+Additional Credits to   : Authors of deu, edmap, nwt, whoever I got the sounds off
+			  (i dunno who), anyone else who wants it =p
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Other                   : No
+Required To Have In Dir : Doom1/Udoom
+
+* Play Information *
+
+Episode and Level #     : E1M1 through E1M9
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not much
+New Sounds              : Yes
+New Music               : Yes
+
+* Construction *
+
+Base                    : Levels from scratch, other stuff off files on the dzone cds.
+Build Time              : Coupla weeks I think.
+Editor(s) used          : deu, edmap, nwt
+Known Bugs              : it's old :)
+May Not Run With...     : should be ok with doom1 ... you might need udoom
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com/pub/idgames
+
+BBS numbers:
+
+Other:

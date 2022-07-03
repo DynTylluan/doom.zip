@@ -1,0 +1,88 @@
+===========================================================================
+			"A FISTFUL OF DOOM"
+===========================================================================
+Title                   : fistful.wad 
+Date Finished           : 01/03/96
+Author                  : Gali editor for 'The WadFactory'
+Email Address           : dethset@patrol.i-way.co.uk
+Other Files By Author   : Visit http://www.i-way.co.uk/~dethset/
+
+Misc. Author Info       : I like pizza.
+
+Description             : "A Fistful of Doom" is a complete Western
+			   conversion, featuring a full western town
+			   high-street. Every effort has been made to 
+			   make this the ultimate Western Wad - this is 
+			   the UK's answer to Boothill!  Let's hear from
+			   a happy customer...
+
+       "This wad is probably the best I've played yet! it is origional, 
+	fun and challenging! you guys are awesome and I'd like to commend 
+	you on your good work! Your site is now one of my favorites and is 
+	bookmarked, Keep it up!!!"
+
+Additional Credits to   : Big 'A' for help with level 1 design
+===========================================================================
+
+Files included in this zip:
+
+	       FISTFUL.WAD
+	       FISTFUL.BAT     DOS installation batch file
+	       FISTFUL.TXT     This file
+	       FISTFIX.WAD     Latest bug fixes to Fistful
+	       FISTDETH.BAT    DOS batch file install deathmatch ready
+                               for use with Death Manager 1.4 from id
+	       DM.CFG          Config for Death Manager & FISTDETH.BAT
+	       COWBOYS.PCX     Installation loading screen
+	       PCXVIEW.EXE     DOS PCX display util
+	       DEUSF.EXE       Sprite installation exe - important
+	       COL.EXE         DOS text colour util
+	       RESTORE.BAT     Batch file to uninstall Fistful if required
+===========================================================================
+* Type of DOOM II file*
+
+
+New level WAD           : Yes
+
+
+* Play Information *
+
+Map #                   : Map 01, Map 02
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : No
+New Graphics            : Yes!!
+Demos Replaced          : None - The Demos made Doom2 v1.666 crash, so I took
+			  them out - (Fistful was created on Doom2 v1.9)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 5 months
+Editor(s) used          : Deu2, Deep, DeuTex, Deth389
+Known Bugs              : Almost gets visplane overflow, but just gets away with it!
+			  Some bugs re deathmatch play corrected in this version
+ 
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels provided you 
+acknowledge it's origins and do not remove the WadFactory logo from the loading 
+screen or Menu backdrop image.  We'd also like to know if you have built extra 
+levels, just out of interest.   
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  
+
+
+* Where to get this WAD *
+
+FTP sites:  D E T H S E T  : http://www.i-way.co.uk/~dethset/
+	    Doomgate on CDROM.COM
+
+		
+
